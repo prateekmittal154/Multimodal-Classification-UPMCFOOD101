@@ -11,7 +11,7 @@ The results obtained so far are as follows ( The metric used is - Accuracy)
 | Inception v3                                                | -                                        | 10                   |                   |                  |
 | BERT-LSTM + Inception v3                                    | Stacking Early Fusion                    | 10                   | 81.2%             | 79.6%            |
 | VGG16 with two dense layers                                 | -                                        | 10                   |                   |                  |
-| BERT-LSTM + VGG16 with two dense layers                     | Stacking Early Fusion                    | 10                   | 92.26%            | 92.4%            |
+| BERT-LSTM + VGG16 with two dense layers                     | Stacking Early Fusion                    | 10                   | 92.26%            | 91.44%            |
 | Inception v4                                                |                                          | 10                   | 51.7%             | 52.07%           |
 | BERT-LSTM + Inception v4                                    | Stacking early fusion                    | 10                   | 92.26%            | 91.6%            |
 | BERT+LSTM with extra dense layers                           |                                          | 10                   |                   |                  |
